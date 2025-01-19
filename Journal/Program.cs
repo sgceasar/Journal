@@ -17,12 +17,12 @@ namespace JournalApp // Namespace for organization
             {
                 // Display the menu options
                 Console.WriteLine("\nJournal Menu:");
-                Console.WriteLine("1. Write a new entry");
-                Console.WriteLine("2. Display the journal");
-                Console.WriteLine("3. Save the journal");
-                Console.WriteLine("4. Load the journal");
-                Console.WriteLine("5. Exit");
-                Console.Write("Choose an option: ");
+                Console.WriteLine("1. Write a new entry ✍️ ");
+                Console.WriteLine("2. Display the journal 🖥️");
+                Console.WriteLine("3. Save the journal ⬇️");
+                Console.WriteLine("4. Load the journal 📓");
+                Console.WriteLine("5. Exit ❌");
+                Console.Write("Choose an option: 🤔");
                 string choice = Console.ReadLine();
 
                 switch (choice)
