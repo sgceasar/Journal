@@ -1,0 +1,14 @@
+/Users/silviosena/RiderProjects/Journal/Journal/bin/Debug/net9.0/Journal
+/Users/silviosena/RiderProjects/Journal/Journal/bin/Debug/net9.0/Journal.deps.json
+/Users/silviosena/RiderProjects/Journal/Journal/bin/Debug/net9.0/Journal.runtimeconfig.json
+/Users/silviosena/RiderProjects/Journal/Journal/bin/Debug/net9.0/Journal.dll
+/Users/silviosena/RiderProjects/Journal/Journal/bin/Debug/net9.0/Journal.pdb
+/Users/silviosena/RiderProjects/Journal/Journal/obj/Debug/net9.0/Journal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/silviosena/RiderProjects/Journal/Journal/obj/Debug/net9.0/Journal.AssemblyInfoInputs.cache
+/Users/silviosena/RiderProjects/Journal/Journal/obj/Debug/net9.0/Journal.AssemblyInfo.cs
+/Users/silviosena/RiderProjects/Journal/Journal/obj/Debug/net9.0/Journal.csproj.CoreCompileInputs.cache
+/Users/silviosena/RiderProjects/Journal/Journal/obj/Debug/net9.0/Journal.dll
+/Users/silviosena/RiderProjects/Journal/Journal/obj/Debug/net9.0/refint/Journal.dll
+/Users/silviosena/RiderProjects/Journal/Journal/obj/Debug/net9.0/Journal.pdb
+/Users/silviosena/RiderProjects/Journal/Journal/obj/Debug/net9.0/Journal.genruntimeconfig.cache
+/Users/silviosena/RiderProjects/Journal/Journal/obj/Debug/net9.0/ref/Journal.dll
